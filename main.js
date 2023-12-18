@@ -15,7 +15,7 @@ function setup(){
 }
 
 function preload(){
-    song= loadSound("music.mp3");
+    song= loadSound("thunder.mp3");
 }
 function play(){
     song.play();
